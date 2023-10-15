@@ -5,11 +5,11 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build && rm -r docs/* && mv dist/* docs/ && rm -r dist",
+    "build": "vite build && rm -r docs/* && mv dist/* docs/",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
   },
-  "homepage": "https://elchino8779.github.io/Tarjetas-Deslizables-React/",
+  "homepage": "https://github.com/elchino8779/Tarjetas-Deslizables-React/tree/main/docs",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
