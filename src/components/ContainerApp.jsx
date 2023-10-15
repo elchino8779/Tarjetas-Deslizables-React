@@ -6,7 +6,7 @@ import DataLenguajes from '../assets/data-lenguajes.json';
 export default function ContainerApp() {
 
   const [colorFondo, setColorFondo] = useState("#242424");
-  const [imagenFondo, setImagenFondo] = useState("url(../public/icon.png)");
+  const [imagenFondo, setImagenFondo] = useState("url(/icon.png)");
   const fondo = useRef();
 
   useEffect(() => {
@@ -23,7 +23,7 @@ export default function ContainerApp() {
   const setOriginalFondo = (e) => {
     if(e.target.matches(".container-app")){
       setColorFondo("#242424");
-      setImagenFondo("url(../public/icon.png)");
+      setImagenFondo("url(/icon.png)");
     }
   }
 
