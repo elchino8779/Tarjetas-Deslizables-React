@@ -9,7 +9,7 @@
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
   },
-  "homepage": "https://github.com/elchino8779/Tarjetas-Deslizables-React/tree/main/docs",
+  "homepage": "https://elchino8779.github.io/Tarjetas-Deslizables-React/",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
