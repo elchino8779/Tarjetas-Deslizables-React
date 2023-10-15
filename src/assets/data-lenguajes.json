@@ -1,0 +1,92 @@
+[
+  {
+    "name": "HTML",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/html5/html5-original.svg",
+    "color": "#ec5b28"
+  },
+  {
+    "name": "CSS",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/css3/css3-original.svg",
+    "color": "#1572b6"
+  },
+  {
+    "name": "JavaScript",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/javascript/javascript-original.svg",
+    "color": "#f0db4f"
+  },
+  {
+    "name": "TypeScript",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/typescript/typescript-original.svg",
+    "color": "#007acc"
+  },
+  {
+    "name": "React",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/react/react-original.svg",
+    "color": "#61dafb"
+  },
+  {
+    "name": "Angular",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/angularjs/angularjs-original.svg",
+    "color": "#dd1b16"
+  },
+  {
+    "name": "VueJs",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/vuejs/vuejs-original.svg",
+    "color": "#41b883"
+  },
+  {
+    "name": "Svelte",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/svelte/svelte-original.svg",
+    "color": "#ff3e00"
+  },
+  {
+    "name": "jQuery",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/jquery/jquery-original.svg",
+    "color": "#0868ac"
+  },
+  {
+    "name": "BootStrap",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/bootstrap/bootstrap-original.svg",
+    "color": "#ab6ffa"
+  },
+  {
+    "name": "Tailwind",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/tailwindcss/tailwindcss-plain.svg",
+    "color": "#38b2ac"
+  },
+  {
+    "name": "Sass",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/sass/sass-original.svg",  
+    "color": "#cb6699"
+  },
+  {
+    "name": "NodeJs",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/nodejs/nodejs-original.svg",
+    "color": "#83cd29"
+  },
+  {
+    "name": "Java",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/java/java-original.svg",
+    "color": "#008fe8"
+  },
+  {
+    "name": "Spring",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/spring/spring-original.svg",
+    "color": "#77bc1f"
+  },
+  {
+    "name": "MySQL",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/mysql/mysql-original.svg",
+    "color": "#0a5e8a"
+  },
+  {
+    "name": "Python",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/python/python-original.svg",
+    "color": "#ffe873"
+  },
+  {
+    "name": "GitHub",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/github/github-original.svg",
+    "color": "#3e3939"
+  }
+]
