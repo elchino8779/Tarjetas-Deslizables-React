@@ -1,5 +1,5 @@
 <div id="titulo" align="center">
-    <h1>Slider Lenguajes de Programación</h1>
+    <h1>Slider Cards</h1>
 </div>
 
 ---
